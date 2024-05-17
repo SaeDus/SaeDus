@@ -26,6 +26,12 @@ I am working with the small company, Opera Skunk, after the "Reign & Rebellion" 
 
 ![Concept Art](https://images.nightcafe.studio/jobs/M0Ccv47mAQbZSvaWb5cT/M0Ccv47mAQbZSvaWb5cT--1--yx3ps.jpg?tr=w-1600,c-at_max)
 
+## 🎮 Favorite Games
+
+Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter Rise, Baldur's Gate, StarCraft, Factorio, Diablo II, Grim Dawn, Dragon's Dogma, The Legend of Dragoon, Legacy of Kain: Soul Reaver, Jak & Daxter: The Precursor Legacy, The Legend of Zelda: Twilight Princess, Metroid Dread, Dark Souls
+
+(I could list about a hundred more, but I'll keep it simple.)
+
 ---
 
 ## 🎮 Projects
@@ -35,8 +41,8 @@ I am working with the small company, Opera Skunk, after the "Reign & Rebellion" 
 
 - **Description:** A PvP hero shooter with a take on magic vs. technology. This was a group project in UAT Game Studios, a cutthroat production studio, at the University of Advancing Technology in an ever-changing team of programmers, developers, and artists to work with product owners in bringing their visions to life. Despite the constant changes to the team, it was a truly amazing experience to work with such awesome, and passionate people.
 - **Technologies:** Unity, C#, PUN 2, Opsive Ultimate Character Controller, Synty Art
-- **Programming** Created the gameplay for several game modes, a few abilities, tools, UI, sequencing, and networking. Aspects of networking included using PUN 2 for the gameplay, a leaderboard, player lobby, and a chat system, with Azure PlayFab for player login/registration, and cloud saves.
-- **Other Roles** Occasionally fulfilled the roles of lead programmer, character designer, level designer, Scrum Master, co-lead, team lead, and various tasks in post-processing, shader art, VFX, UI, and presentations.
+- **Programming:** Created the gameplay for several game modes, a few abilities, tools, UI, sequencing, and networking. Aspects of networking included using PUN 2 for the gameplay, a leaderboard, player lobby, and a chat system, with Azure PlayFab for player login/registration, and cloud saves.
+- **Other Roles:** Occasionally fulfilled the roles of lead programmer, character designer, level designer, Scrum Master, co-lead, team lead, and various tasks in post-processing, shader art, VFX, UI, and presentations.
 - **Full Game:** [itch.io](https://khestral.itch.io/reign-and-rebellion)
 
 ---
