@@ -47,13 +47,13 @@ I am working with the small company, Opera Skunk, after the "Reign & Rebellion" 
    - **Description:** Just a point-and-click walking simulator set in liminal space in space.
    - **Team Size:** 1 -- me, myself, and I.
    - **Technologies:** Unity, Synty Art
-   - **Full Game:** [Liminal in Space](https://saedus.itch.io/liminal-in-space)
+   - **Full Game:** [itch.io](https://saedus.itch.io/liminal-in-space)
 
 2. **Double Agent - UAT Game Design Workshop Jam March 2023**
    - **Description:** It was going to be a stealth game, but ended up being nothing more than a simple framework for an interactable system. It was a lesson in focusing on core features.
    - **Team Size:** 1
    - **Technologies:** Unity, Synty Art
-   - **Full Game:** [Double Agent](https://saedus.itch.io/double-agent)
+   - **Full Game:** [itch.io](https://saedus.itch.io/double-agent)
 
 ---
 
