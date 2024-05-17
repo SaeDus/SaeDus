@@ -67,10 +67,6 @@ I am working with the small company, Opera Skunk, after the "Reign & Rebellion" 
 - **Itch.io** [SaeDus](https://saedus.itch.io/)
 - **Twitter:** [@RJ_SaeDus](https://twitter.com/RJ_SaeDus)
 
-![Contact GIF](https://your-gif-url.com/contact.gif)
-
----
-
 Feel free to explore my repositories and reach out if you would like to collaborate or just chat about games!
 
 ---
