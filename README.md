@@ -10,7 +10,7 @@ I spend all my time creating new projects that serve only as a playground for wh
 
 ## ⌚ Currently Working On
 
-I am working with the small company, Opera Skunk, after the "Reign & Rebellion" project, I stayed on with them doing some contract work for a few other projects under NDA. The projects include genres such as **Tower Defense**, **Survival MMORPG**, and **Horror**. I always have a few other projects going, and I hope to bring many of these into the hands of players and other developers as soon as possible.
+I am currently working with Opera Skunk doing some contract work for a few other projects under NDA. The projects include genres such as **Tower Defense**, **Survival MMORPG**, and **Horror**. I always have a few other projects going, and I hope to bring many of these into the hands of players and other developers as soon as possible.
 
 
 ## 🔧 Skills
