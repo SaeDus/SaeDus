@@ -4,9 +4,9 @@
 
 ## 👾 About Me
 
-Oh hi! I am a **viciously passionate video game programmer** with a knack for creating immersive gaming experiences. With a solid foundation in **Unity**, extensive experience with **Unreal Engine** and **Godot**, and proficiency in **C#**, **C/C++**, **Python**, **GDScript**, and **JavaScript**, I love bringing virtual worlds to life.
+Oh hi! I am a **video game programmer** with a desire to create immersive gaming experiences. With a solid foundation in **Unity**, extensive experience with **Godot** while dabbling with **Unreal Engine**, and proficiency in **C#**, **GDScript**, **Python**, **C++**, and **JavaScript**, I love bringing virtual worlds to life.
 
-I spend all my time creating new projects that serve only as a playground for whatever piques my interest before moving on to the next. I am continuously chasing an endless hunger awakened by my curiosity.
+I am continuously chasing an endless hunger awakened by my curiosity, always finding cool new things to recreate.
 
 ## ⌚ Currently Working On
 
@@ -28,9 +28,9 @@ I am currently working with Opera Skunk doing some contract work for a few other
 
 ## 🎮 Favorite Games
 
-Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter Rise, Baldur's Gate, StarCraft, Factorio, Diablo II, Grim Dawn, Dragon's Dogma, The Legend of Dragoon, Legacy of Kain: Soul Reaver, Jak & Daxter: The Precursor Legacy, The Legend of Zelda: Twilight Princess, Metroid Dread, Dark Souls
+Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter, Baldur's Gate, StarCraft, Factorio, Diablo II, Grim Dawn, Dragon's Dogma, The Legend of Dragoon, Jak & Daxter: The Precursor Legacy, The Legend of Zelda: Twilight Princess, Metroid Dread, Dark Souls, Elden Ring
 
-(I could list about a hundred more, but I'll keep it simple.)
+(I have too many favorites -- I could list about a hundred more, but I'll keep it simple.)
 
 ---
 
@@ -47,31 +47,7 @@ Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter Rise, Baldur's Gat
 
 ---
 
-### 🚀 Game Jams
-
-1. **Liminal in Space - UAT Summer Game Jam 2022 Ep. 2**
-   - **Description:** Just a point-and-click walking simulator set in liminal space in space.
-   - **Team Size:** 1 -- me, myself, and I.
-   - **Technologies:** Unity, Synty Art
-   - **Full Game:** [itch.io](https://saedus.itch.io/liminal-in-space)
-
-2. **Double Agent - UAT Game Design Workshop Jam March 2023**
-   - **Description:** It was going to be a stealth game, but ended up being nothing more than a simple framework for an interactable system. It was a lesson in focusing on core features.
-   - **Team Size:** 1
-   - **Technologies:** Unity, Synty Art
-   - **Full Game:** [itch.io](https://saedus.itch.io/double-agent)
-
----
-
 ![Concept Art](https://images.nightcafe.studio/jobs/ec6APWNTVr3aRJI4DKCc/ec6APWNTVr3aRJI4DKCc--1--84qi1.jpg?tr=w-1600,c-at_max)
-
-## 📫 Contact
-
-- **Email:** [xRJ.Prototype@gmail.com](mailto:xRJ.Prototype@gmail.com)
-- **LinkedIn:** [RJ Catterton](https://www.linkedin.com/in/rj-catterton/)
-- **Portfolio** [Realm Coder](https://rjcatterton.wixsite.com/realmcoder)
-- **Itch.io** [SaeDus](https://saedus.itch.io/)
-- **Twitter:** [@RJ_SaeDus](https://twitter.com/RJ_SaeDus)
 
 Feel free to explore my repositories and reach out if you would like to collaborate or just chat about games!
 
