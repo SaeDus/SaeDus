@@ -48,6 +48,8 @@ Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter, Baldur's Gate, St
 - **Other Roles:** A project owner, Scrum Master, and designer for the gameplay, characters, levels, concepts, UI, and basic marketing materials.
 - **Ongoing Demo:** [itch.io](https://khestral.itch.io/reign-and-rebellion-tower-defense)
 
+---
+
 ### 🌟 Reign & Rebellion
 ![Reign & Rebellion](https://img.itch.zone/aW1hZ2UvMTI4MDA4MC83NDUxODU5LnBuZw==/347x500/GcMfw4.png)
 
