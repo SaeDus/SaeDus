@@ -55,6 +55,8 @@ Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter, Baldur's Gate, St
 - **Technologies:** Unity, C#, PUN 2, Opsive Ultimate Character Controller, Synty Art
 - **Full Game:** [itch.io](https://khestral.itch.io/reign-and-rebellion)
 
+---
+
 ![Concept Art](https://images.nightcafe.studio/jobs/r8T3gCUWNpv0JJaQ9aJz/r8T3gCUWNpv0JJaQ9aJz--0--xcbuc.jpg?tr=w-1600,c-at_max)
 
 Feel free to explore my repositories and reach out if you would like to collaborate or just chat about games!
