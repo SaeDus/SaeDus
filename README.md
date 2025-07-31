@@ -44,8 +44,6 @@ Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter, Baldur's Gate, St
 
 - **Description:** A simple Tower Defense where players fight against the hordes of a magical army, determined to reign over the world.
 - **Technologies:** Unity, C#, Synty Art
-- **Programming:** Sole programmer creating the gameplay, tools, sequencing, splines, prototyping, and AI (towers, creeps, and various state machines).
-- **Other Roles:** A project owner, Scrum Master, and designer for the gameplay, characters, levels, concepts, UI, and basic marketing materials.
 - **Ongoing Demo:** [itch.io](https://khestral.itch.io/reign-and-rebellion-tower-defense)
 
 ---
@@ -55,8 +53,6 @@ Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter, Baldur's Gate, St
 
 - **Description:** A PvP hero shooter with a take on magic vs. technology. This was a group project in UAT Game Studios, a cutthroat production studio, at the University of Advancing Technology in an ever-changing team of programmers, developers, and artists to work with product owners in bringing their visions to life. Despite the constant changes to the team, it was a truly amazing experience to work with such awesome, and passionate people.
 - **Technologies:** Unity, C#, PUN 2, Opsive Ultimate Character Controller, Synty Art
-- **Programming:** Created the gameplay for several game modes, a few abilities, tools, UI, sequencing, and networking. Aspects of networking included using PUN 2 for the gameplay, a leaderboard, player lobby, and a chat system, with Azure PlayFab for player login/registration, and cloud saves.
-- **Other Roles:** Occasionally fulfilled the roles of lead programmer, character designer, level designer, Scrum Master, co-lead, team lead, and various tasks in post-processing, shader art, VFX, UI, and presentations.
 - **Full Game:** [itch.io](https://khestral.itch.io/reign-and-rebellion)
 
 ![Concept Art](https://images.nightcafe.studio/jobs/r8T3gCUWNpv0JJaQ9aJz/r8T3gCUWNpv0JJaQ9aJz--0--xcbuc.jpg?tr=w-1600,c-at_max)
