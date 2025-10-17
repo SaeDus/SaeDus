@@ -2,9 +2,9 @@
 
 ## 👾 About Me
 
-Oh hi! I am a **video game programmer** with a desire to create immersive gaming experiences. With a solid foundation in **Unity**, extensive experience with **Godot** while dabbling with **Unreal Engine**, and proficiency in **C#**, **GDScript**, **Python**, **C++**, and **JavaScript**, I love bringing virtual worlds to life.
+Oh hi! I am a **video game programmer** with a desire to create immersive gaming experiences.
 
-I am continuously chasing an endless hunger awakened by my curiosity, always finding cool new things to recreate.
+I am continuously chasing an endless hunger awakened by my curiosity, always finding cool new things to pursue.
 
 ---
 
