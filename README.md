@@ -1,7 +1,5 @@
 # 🕹️ Welcome to My GitHub Profile! 🕹️
 
-![Banner](https://images.nightcafe.studio/jobs/JgPVKXN4BP0w39LQQonA/JgPVKXN4BP0w39LQQonA--0--neata.jpg?tr=w-1600,c-at_max)
-
 ## 👾 About Me
 
 Oh hi! I am a **video game programmer** with a desire to create immersive gaming experiences. With a solid foundation in **Unity**, extensive experience with **Godot** while dabbling with **Unreal Engine**, and proficiency in **C#**, **GDScript**, **Python**, **C++**, and **JavaScript**, I love bringing virtual worlds to life.
@@ -27,11 +25,9 @@ I am currently working with Opera Skunk doing some contract work for a few other
 ![GDScript](https://img.shields.io/badge/GDScript-100000?style=for-the-badge&logo=godotengine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Concept Art](https://images.nightcafe.studio/jobs/Db9EZDjn2d7TDLCcjPaU/Db9EZDjn2d7TDLCcjPaU--0--xut1t.jpg?tr=w-1600,c-at_max)
-
 ## 🎮 Favorite Games
 
-Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter, Baldur's Gate, StarCraft, Factorio, Diablo II, Grim Dawn, Dragon's Dogma, The Legend of Dragoon, Jak & Daxter: The Precursor Legacy, The Legend of Zelda: Twilight Princess, Metroid Dread, Dark Souls, Elden Ring
+Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter, Baldur's Gate, StarCraft, Factorio, Diablo II, Grim Dawn, Dragon's Dogma, The Legend of Dragoon, Jak & Daxter: The Precursor Legacy, The Legend of Zelda: Twilight Princess, Metroid Dread
 
 (I have too many favorites -- I could list about a hundred more, but I'll keep it simple.)
 
@@ -56,7 +52,5 @@ Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter, Baldur's Gate, St
 - **Full Game:** [itch.io](https://khestral.itch.io/reign-and-rebellion)
 
 ---
-
-![Concept Art](https://images.nightcafe.studio/jobs/r8T3gCUWNpv0JJaQ9aJz/r8T3gCUWNpv0JJaQ9aJz--0--xcbuc.jpg?tr=w-1600,c-at_max)
 
 Feel free to explore my repositories and reach out if you would like to collaborate or just chat about games!
