@@ -1,56 +1,96 @@
-# 🕹️ Welcome to My GitHub Profile! 🕹️
+# RJ Catterton
 
-## 👾 About Me
+### Gameplay & Software Engineer
 
-Oh hi! I am a **video game programmer** with a desire to create immersive gaming experiences.
+I build gameplay systems, developer tools, and software that turns complicated problems into useful, reusable systems.
 
-I am continuously chasing an endless hunger awakened by my curiosity, always finding cool new things to pursue.
+My background is primarily in **C# and Unity**, but my current work also spans **Unreal, Godot, React, TypeScript, Rust/Tauri, Python, and .NET**. I especially enjoy architecture, tooling, procedural systems, game-state modeling, AI/gameplay systems, and projects where I get to figure out how all the pieces fit together.
 
----
-
-## ⌚ Currently Working On
-
-I am currently working with Opera Skunk doing some contract work for a few other projects under NDA. The projects include genres such as **Tower Defense**, **Survival MMORPG**, and **Horror**. I always have a few other projects going, and I hope to bring many of these into the hands of players and other developers as soon as possible.
+🌐 **Portfolio:** [mrenegade.com](https://mrenegade.com)
 
 ---
 
-## 🔧 Skills
+## Featured Project
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-100000?style=for-the-badge&logo=godotengine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-100000?style=for-the-badge&logo=godotengine&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=white)
+### 🎮 [Game Companion](https://github.com/SaeDus/game-companion)
 
-## 🎮 Favorite Games
+A desktop application for exporting game state into a portable, structured JSON package that can be shared with an AI companion.
 
-Prototype, Dungeons & Dragons, Kingdom Hearts, Monster Hunter, Baldur's Gate, StarCraft, Factorio, Diablo II, Grim Dawn, Dragon's Dogma, The Legend of Dragoon, Jak & Daxter: The Precursor Legacy, The Legend of Zelda: Twilight Princess, Metroid Dread
+The project began with **Diablo II: Resurrected** and is being designed around game-specific adapters feeding a shared companion format, allowing important run state to live independently of any particular AI conversation or model.
 
-(I have too many favorites -- I could list about a hundred more, but I'll keep it simple.)
+**Current stack:**
+C# / .NET • React • TypeScript • Tauri • Rust • Python
 
----
+**Some of the problems involved:**
 
-## 🎮 Projects
-
-### 🌟 Reign & Rebellion Tower Defense
-![Reign & Rebellion](https://img.itch.zone/aW1nLzE5MzAzNjYwLnBuZw==/original/lnnVIY.png)
-
-- **Description:** A simple Tower Defense where players defend against the hordes of a magical army.
-- **Technologies:** Unity, C#, Synty Art
-- **Ongoing Demo:** [itch.io](https://khestral.itch.io/reign-and-rebellion-tower-defense)
+* Parsing and normalizing binary game-save data
+* Building typed, semantic game-state models
+* Generating and verifying lookup databases
+* Combining state, rules, mechanics, preferences, and history into portable JSON
+* Designing clean boundaries between game-specific exporters and the shared desktop application
+* Maintaining self-contained snapshots that remain useful without previous conversation context
 
 ---
 
-### 🌟 Reign & Rebellion
-![Reign & Rebellion](https://img.itch.zone/aW1hZ2UvMTI4MDA4MC83NDUxODU5LnBuZw==/347x500/GcMfw4.png)
+## Selected Systems & Projects
 
-- **Description:** A PvP hero shooter with a take on magic vs. technology. This was a group project in UAT Game Studios -- a cutthroat production studio -- at the University of Advancing Technology.
-- **Technologies:** Unity, C#, PUN 2, Opsive Ultimate Character Controller (legacy), Synty Art
-- **Full Game:** [itch.io](https://khestral.itch.io/reign-and-rebellion)
+### 🔍 [The Stealth Perimeter](https://github.com/SaeDus/The-Stealth-Perimeter)
+
+A stealth-AI investigation system that estimates the area a player could have reached after escaping detection, giving AI agents a dynamically expanding search area rather than simply forgetting the player.
+
+Originally developed as a student innovation project at the University of Advancing Technology.
+
+**Unity • C# • AI Systems • Spatial Search**
+
+### 📷 [Curve Camera Controller](https://github.com/SaeDus/Curve-Camera-Controller)
+
+A Unity camera controller that uses an animation curve to dynamically change camera distance based on vertical viewing angle.
+
+**Unity • C# • Camera Systems**
+
+### 🧩 [Interactable System](https://github.com/SaeDus/Interactable-System)
+
+A reusable Unity interaction framework supporting highlighting, targeting, triggers, and configurable interaction behavior.
+
+**Unity • C# • Gameplay Systems**
 
 ---
 
-Feel free to explore my repositories and reach out if you would like to collaborate or just chat about games!
+## What I'm Working On
+
+My current focus is **Game Companion** alongside reusable Unity systems and developer tools.
+
+I'm particularly interested in work involving:
+
+* Gameplay engineering
+* Systems architecture
+* Developer tooling
+* AI and agent behavior
+* Procedural and data-driven systems
+* Game-state modeling
+* Unity editor/runtime tooling
+
+---
+
+## Technologies
+
+**Primary:** C# • Unity • .NET
+
+**Also working with:** TypeScript • React • Rust • Tauri • Python • C++ • Git
+
+---
+
+## Background
+
+I earned a **B.S. in Game Programming** from the University of Advancing Technology.
+
+I enjoy projects that start with an awkward technical question and eventually turn into a system somebody else can actually use.
+
+---
+
+## Find Me
+
+🌐 [Portfolio](https://rjcatterton.wixsite.com/realmcoder)
+💼 [LinkedIn](https://www.linkedin.com/in/rj-catterton/)
+
+Feel free to explore the repositories here. The projects above are only a selection of what I've built and what I'm currently developing.
