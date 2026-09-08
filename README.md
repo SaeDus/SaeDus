@@ -4,7 +4,7 @@
 
 I build gameplay systems, developer tools, and software with a focus on clean architecture, useful abstractions, and solving the awkward technical problems that sit between systems.
 
-Most of my work has been in **Unity and C#**, with recent projects expanding into **.NET, React, TypeScript, Rust/Tauri, and Python**.
+Most of my work has been in **Unity and C#**, with recent projects expanding into **Unreal, Godot, .NET, React, TypeScript, Rust/Tauri, and Python**.
 
 🌐 [Portfolio](https://rjcatterton.wixsite.com/realmcoder)  
 💼 [LinkedIn](https://www.linkedin.com/in/rj-catterton)
@@ -53,7 +53,7 @@ A reusable Unity interaction framework for targeting, highlighting, triggering, 
 
 **Primary:** C# · Unity · .NET
 
-**Also:** TypeScript · React · Rust · Tauri · Python · C++ · Git
+**Also:** Unreal · Godot · TypeScript · React · Rust · Tauri · Python · C++ · Git
 
 I tend to gravitate toward gameplay architecture, AI and pathfinding, tooling, data-driven systems, performance problems, and anything that starts with:
 
