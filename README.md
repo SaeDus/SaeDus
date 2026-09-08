@@ -1,96 +1,76 @@
 # RJ Catterton
 
-### Gameplay & Software Engineer
+**Gameplay & Software Engineer**
 
-I build gameplay systems, developer tools, and software that turns complicated problems into useful, reusable systems.
+I build gameplay systems, developer tools, and software with a focus on clean architecture, useful abstractions, and solving the awkward technical problems that sit between systems.
 
-My background is primarily in **C# and Unity**, but my current work also spans **Unreal, Godot, React, TypeScript, Rust/Tauri, Python, and .NET**. I especially enjoy architecture, tooling, procedural systems, game-state modeling, AI/gameplay systems, and projects where I get to figure out how all the pieces fit together.
+Most of my work has been in **Unity and C#**, with recent projects expanding into **.NET, React, TypeScript, Rust/Tauri, and Python**.
 
-🌐 [Portfolio](https://rjcatterton.wixsite.com/realmcoder)
-
----
-
-## Featured Project
-
-### 🎮 [Game Companion](https://github.com/SaeDus/game-companion)
-
-A desktop application for exporting game state into a portable, structured JSON package that can be shared with an AI companion.
-
-The project began with **Diablo II: Resurrected** and is being designed around game-specific adapters feeding a shared companion format, allowing important run state to live independently of any particular AI conversation or model.
-
-**Current stack:**
-C# / .NET • React • TypeScript • Tauri • Rust • Python
-
-**Some of the problems involved:**
-
-* Parsing and normalizing binary game-save data
-* Building typed, semantic game-state models
-* Generating and verifying lookup databases
-* Combining state, rules, mechanics, preferences, and history into portable JSON
-* Designing clean boundaries between game-specific exporters and the shared desktop application
-* Maintaining self-contained snapshots that remain useful without previous conversation context
+🌐 [Portfolio](https://rjcatterton.wixsite.com/realmcoder)  
+💼 [LinkedIn](https://www.linkedin.com/in/rj-catterton)
 
 ---
 
-## Selected Systems & Projects
+## Featured Work
 
-### 🔍 [The Stealth Perimeter](https://github.com/SaeDus/The-Stealth-Perimeter)
+### [Game Companion](https://github.com/SaeDus/game-companion)
 
-A stealth-AI investigation system that estimates the area a player could have reached after escaping detection, giving AI agents a dynamically expanding search area rather than simply forgetting the player.
+A desktop application for exporting game state into a portable JSON package that can be shared with an AI companion.
 
-Originally developed as a student innovation project at the University of Advancing Technology.
+The project started with **Diablo II: Resurrected** and has grown into a broader experiment in game-state modeling, exporter architecture, portable run data, and keeping AI-assisted play independent from any one conversation or model.
 
-**Unity • C# • AI Systems • Spatial Search**
-
-### 📷 [Curve Camera Controller](https://github.com/SaeDus/Curve-Camera-Controller)
-
-A Unity camera controller that uses an animation curve to dynamically change camera distance based on vertical viewing angle.
-
-**Unity • C# • Camera Systems**
-
-### 🧩 [Interactable System](https://github.com/SaeDus/Interactable-System)
-
-A reusable Unity interaction framework supporting highlighting, targeting, triggers, and configurable interaction behavior.
-
-**Unity • C# • Gameplay Systems**
+**C# / .NET · React · TypeScript · Tauri · Rust · Python**
 
 ---
 
-## What I'm Working On
+### [The Stealth Perimeter](https://github.com/SaeDus/The-Stealth-Perimeter)
 
-My current focus is **Game Companion** alongside reusable Unity systems and developer tools.
+A stealth-AI toolkit built around the question: *where could the player have gone after breaking line of sight?*
 
-I'm particularly interested in work involving:
+Instead of immediately forgetting the player, AI can establish and search an expanding probable area using pathfinding and state-driven behavior.
 
-* Gameplay engineering
-* Systems architecture
-* Developer tooling
-* AI and agent behavior
-* Procedural and data-driven systems
-* Game-state modeling
-* Unity editor/runtime tooling
+**Unity · C# · AI · A* · Dijkstra**
 
 ---
 
-## Technologies
+### [Curve Camera Controller](https://github.com/SaeDus/Curve-Camera-Controller)
 
-**Primary:** C# • Unity • .NET
+A small Unity camera system that uses an animation curve to change camera distance based on vertical viewing angle, allowing the camera to move naturally between close ground-level framing and a wider overhead view.
 
-**Also working with:** TypeScript • React • Rust • Tauri • Python • C++ • Git
+**Unity · C# · Camera Systems**
+
+---
+
+### [Interactable System](https://github.com/SaeDus/Interactable-System)
+
+A reusable Unity interaction framework for targeting, highlighting, triggering, and configuring interactable objects.
+
+**Unity · C# · Gameplay Systems**
+
+---
+
+## What I Work With
+
+**Primary:** C# · Unity · .NET
+
+**Also:** TypeScript · React · Rust · Tauri · Python · C++ · Git
+
+I tend to gravitate toward gameplay architecture, AI and pathfinding, tooling, data-driven systems, performance problems, and anything that starts with:
+
+> “There has to be a cleaner way to do this.”
 
 ---
 
 ## Background
 
-I earned a **B.S. in Game Programming** from the University of Advancing Technology.
+I earned a **B.S. in Video Game Programming** from the University of Advancing Technology, graduating **summa cum laude** in 2022.
 
-I enjoy projects that start with an awkward technical question and eventually turn into a system somebody else can actually use.
+My professional and project work has included gameplay systems, designer tools, AI behavior, pathfinding, multiplayer features, performance optimization, and leading small teams in Agile environments.
 
 ---
 
-## Find Me
+## Currently
 
-🌐 [Portfolio](https://rjcatterton.wixsite.com/realmcoder)
-💼 [LinkedIn](https://www.linkedin.com/in/rj-catterton/)
+My main focus is **Game Companion**, along with reusable Unity systems and developer tools that may eventually become standalone products.
 
-Feel free to explore the repositories here. The projects above are only a selection of what I've built and what I'm currently developing.
+I’m especially interested in gameplay engineering, systems programming, tools development, AI behavior, and technical work where the interesting part is figuring out how the pieces should fit together.
