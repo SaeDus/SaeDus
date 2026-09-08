@@ -6,7 +6,7 @@ I build gameplay systems, developer tools, and software that turns complicated p
 
 My background is primarily in **C# and Unity**, but my current work also spans **Unreal, Godot, React, TypeScript, Rust/Tauri, Python, and .NET**. I especially enjoy architecture, tooling, procedural systems, game-state modeling, AI/gameplay systems, and projects where I get to figure out how all the pieces fit together.
 
-🌐 **Portfolio:** [mrenegade.com](https://mrenegade.com)
+🌐 [Portfolio](https://rjcatterton.wixsite.com/realmcoder)
 
 ---
 
